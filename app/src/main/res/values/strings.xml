@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">AppFotos</string>
+    <string name="open">Entrar</string>
+    <string name="send">Enviar</string>
+    <string name="service_order">Ordem de serviço</string>
+    <string name="obs">Observações:</string>
+
+
+    <string-array name="equipment_string">
+        <item>Motores</item>
+        <item>Bombas</item>
+        <item>Motor Média</item>
+        <item>Gerador</item>
+        <item>Drives</item>
+        <item>Transformadores</item>
+        <item>Redutores</item>
+    </string-array>
+
+    <string-array name="equipment_motor">
+        <item>Placa identificação</item>
+        <item>Equipamento Montado</item>
+        <item>Frontal</item>
+        <item>Traseira</item>
+        <item>Lateral (Cx de ligação)</item>
+        <item>Lateral (Oposta cx de ligação)</item>
+        <item>Interior caixa de ligação</item>
+        <item>Ventilador (Sem defletora)</item>
+        <item>Partes e Peças</item>
+    </string-array>
+
+    <string-array name="equipment_bomb">
+        <item>Placa identificação</item>
+        <item>Equipamento Montado</item>
+        <item>Frontal</item>
+        <item>Traseira</item>
+        <item>Interior caixa de ligação</item>
+        <item>Partes e Peças</item>
+    </string-array>
+
+
+    <string-array name="equipment_motor_media">
+        <item>Placa identificação</item>
+        <item>Equipamento Montado</item>
+        <item>Frontal</item>
+        <item>Traseira</item>
+        <item>Lateral (Cx de ligação)</item>
+        <item>Lateral (Oposta cx de ligação)</item>
+        <item>Interior caixa de ligação</item>
+        <item>Ventilador (Sem defletora)</item>
+        <item>Partes e Peças</item>
+    </string-array>
+
+    <string-array name="equipment_generator">
+        <item>Placa identificação</item>
+        <item>Equipamento Montado</item>
+        <item>Frontal</item>
+        <item>Traseira</item>
+        <item>Lateral (Cx de ligação)</item>
+        <item>Lateral (Oposta cx de ligação)</item>
+        <item>Interior caixa de ligação</item>
+        <item>Ventilador (Sem defletora)</item>
+        <item>Partes e Peças</item>
+    </string-array>
+
+    <string-array name="equipment_drivers">
+        <item>Placa identificação</item>
+        <item>Equipamento Montado</item>
+        <item>Frontal</item>
+        <item>Traseira</item>
+        <item>Lateral 1</item>
+        <item>Lateral 2</item>
+        <item>Partes e Peças</item>
+    </string-array>
+
+    <string-array name="equipment_transformers">
+        <item>Placa identificação</item>
+        <item>Equipamento Montado</item>
+        <item>Frontal</item>
+        <item>Traseira</item>
+        <item>Lateral (Cx de ligação)</item>
+        <item>Lateral (Oposta cx de ligação)</item>
+        <item>Interior caixa de ligação</item>
+        <item>Partes e Peças</item>
+    </string-array>
+
+    <string-array name="equipment_reducer">
+        <item>Placa de identificação</item>
+        <item>Equipamento Montado</item>
+        <item>Frontal</item>
+        <item>Traseira</item>
+        <item>Lateral (Cx de ligação)</item>
+        <item>Lateral (Oposta cx de ligação)</item>
+        <item>Partes e Peças</item>
+    </string-array>
+
+    <string-array name="folder">
+        <item>Placa identificação</item>
+        <item>Equipamento Montado</item>
+        <item>Frontal</item>
+        <item>Traseira</item>
+        <item>Lateral (Cx de ligação)</item>
+        <item>Lateral (Oposta cx de ligação)</item>
+        <item>Interior caixa de ligação</item>
+        <item>Ventilador (Sem defletora)</item>
+        <item>Partes e Peças</item>
+        <item>Lateral 1</item>
+        <item>Lateral 2</item>
+        <item>Texto</item>
+        <item>Video</item>
+    </string-array>
+    
+    
+
+
+</resources>
